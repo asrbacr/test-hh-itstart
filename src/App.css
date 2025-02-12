@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body div {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+  }
+  
